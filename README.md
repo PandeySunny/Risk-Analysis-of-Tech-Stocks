@@ -80,15 +80,6 @@ This project replicates core tasks expected in:
 
 ---
 
-## 🔗 Useful Links
-
-- [📘 View Jupyter Notebook](https://github.com/yourusername/your-repo/blob/main/Risk%20Analysis%20of%20Tech%20Stocks.ipynb)
-- [🔗 LinkedIn](https://www.linkedin.com/in/pandey-sunny-74025b260)
-- [💼 Portfolio Projects](https://github.com/PandeySunny)
-- [📊 Power BI Dashboard (Bonus)](https://github.com/PandeySunny/Power-BI-dashboard/tree/main/Amazon%20Global%20Sale%20Analysis)
-
----
-
 ## 🧾 Author
 
 **Pandey Sunny**  
