@@ -46,8 +46,7 @@ The goal is to simulate an analyst’s workflow for assessing risk exposure and 
 📦 Risk-Analysis-of-Tech-Stocks/
 ├── Risk Analysis of Tech Stocks.ipynb    # Main analysis notebook
 ├── README.md                             # Project documentation
-├── requirements.txt                      # Python package dependencies
-└── data/                                 # (Optional) CSV or downloaded stock data
+
 ```
 
 ---
@@ -60,17 +59,6 @@ The goal is to simulate an analyst’s workflow for assessing risk exposure and 
 - **Correlation Matrix** between stocks
 - **Sharpe Ratio** for risk-adjusted performance
 - **Heatmaps & Comparative Line Plots**
-
----
-
-## 📸 Sample Visualizations
-
-> _You can add screenshots here later as images using markdown!_
-
-```markdown
-![Daily Returns](images/daily_returns.png)
-![Correlation Matrix](images/correlation_heatmap.png)
-```
 
 ---
 
